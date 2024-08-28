@@ -33,47 +33,14 @@
                     r.jsxs)("div", {
                         className: i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " content",
                         children: [(0,
-                        r.jsx)("div", {
-                            className: i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " back",
-                            children: (0,
-                            r.jsxs)("div", {
-                                className: i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " backContent",
-                                children: [(0,
-                                r.jsx)("img", {
-                                    src: "/2F3.png",
-                                    width: "140",
-                                                                height: "140",
-                                    alt: ""
-                                }), (0,
-                                r.jsx)("strong", {
-                                    className: i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]),
-                                    children: s
-                                })]
-                            })
-                        }), (0,
                         r.jsxs)("div", {
-                            className: i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " front",
-                            children: [(0,
-                            r.jsxs)("div", {
-                                className: i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " img",
-                                children: [(0,
-                                r.jsx)("div", {
-                                    className: i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " circle"
-                                }), (0,
-                                r.jsx)("div", {
-                                    id: "right",
-                                    className: i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " circle"
-                                }), (0,
-                                r.jsx)("div", {
-                                    id: "bottom",
-                                    className: i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " circle"
-                                })]
-                            }), (0,
+                            className: i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " ",
+                            children: [ (0,
                             r.jsx)("div", {
                                 className: i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " frontContent",
                                 children: (0,
                                 r.jsx)("div", {
-                                    className: i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " boxSteps",
+                                    className: i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " ",
                                     children: "1" == c ? (0,
                                     r.jsxs)("div", {
                                         className: i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " cardBack",
@@ -82,7 +49,7 @@
                                             className:   i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " imgHtb",
                                             children: (0,
                                                 r.jsx)("img", {
-                                                src: "/1.png",
+                                                src: "/logo2.jpg",
                                                 width: "140",
                                                                             height: "140",
                                                 alt: ""
@@ -120,7 +87,7 @@
                                             className:   i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " imgHtb",
                                             children: (0,
                                                 r.jsx)("img", {
-                                                src: "/new.png",
+                                                src: "/logo3.jpg",
                                                 width: "140",
                                                                             height: "140",
                                                 alt: ""
@@ -164,7 +131,7 @@
                                             className:   i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " imgHtb",
                                             children: (0,
                                                 r.jsx)("img", {
-                                                src: "/3.png",
+                                                src: "/2f3.png",
                                                 width: "140",
                                                                             height: "140",
                                                 alt: ""

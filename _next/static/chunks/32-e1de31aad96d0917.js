@@ -271,7 +271,18 @@
                                 children: "Renounced"
                             })]
                         }),]
-                    })]
+                    }),(0,
+                        r.jsx)("div", {
+                            className:  "jsx-ff0aa5fbe096ac0d title",
+                            children: (0,
+                            r.jsx)("img", {
+                                src: "./logo3.jpg",
+                                className: "jsx-59b1ee3651004402 cimg",
+                                width: 100,
+                                height: 200,
+                                alt: ""
+                            })
+                        }),]
                 }), (0,
                 r.jsx)(i(), {
                     id: "ff0aa5fbe096ac0d",

@@ -392,6 +392,7 @@
                             src: "/logo0921.xvg",
                             frontTitle: "1",
                             infoDisplay: "1",
+                            class:"bkp",
                         
                             backTitle: "Tonkeeper",
                         }), (0,
