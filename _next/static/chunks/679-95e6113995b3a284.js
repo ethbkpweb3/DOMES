@@ -131,7 +131,7 @@
                                             className:   i().dynamic([["8d7254500c9a2a9c", [t ? "-30px" : "0px"]]]) + " imgHtb",
                                             children: (0,
                                                 r.jsx)("img", {
-                                                src: "/2f3.png",
+                                                src: "/2F3.png",
                                                 width: "140",
                                                                             height: "140",
                                                 alt: ""
